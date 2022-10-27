@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CSteele81
 - 👀 I’m interested in Data Science, sports, games, and the outdoors
 - 🌱 I’m currently learning Data Science and Analytics
-- 💞️ I’m looking to collaborate on a Data Science project relating to Magic The Gathering or a project relating to the outdoors in some way.
+- 💞️ I’m looking to collaborate on a Data Science project relating to the outdoors.
 - 📫 You can reach me a steelechris30@gmail.com
 
 <!---
